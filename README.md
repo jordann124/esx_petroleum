@@ -1,4 +1,4 @@
-# esx_petroleo
+# esx_petroleum
 
 You have to get the Oil and then sell it!
 
@@ -17,8 +17,8 @@ Itens
 - [pNotify](https://github.com/ESX-Brasil/pNotify)
 
 # Created by
-- [Código,Traduções - Jordann](https://github.com/jordann124)
-- [Quem Deu a Ideia - Tiper](https://discord.gg/eeQxhsd)
+- [Code,Translations - Jordann](https://github.com/jordann124)
+- [Who Gave the Idea - Tiper](https://discord.gg/eeQxhsd)
 
 # Discord
 
