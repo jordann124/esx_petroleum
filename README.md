@@ -26,7 +26,7 @@ Itens
 
 # Legal
 ### License
-esx_petroleo - Esx_Petroleo
+esx_petroleum - Esx_Petroleo
 
 Copyright (C) 2015-2019 Jordan
 
